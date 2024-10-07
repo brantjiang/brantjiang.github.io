@@ -53,8 +53,15 @@ a{
     margin-bottom: 10px;
 }
 
-.section-1 a{
+.section-1 ul{
+    margin: 0;
+    padding-top: 0;
+    padding-left: 4%;
+}
 
+.section-2 img{
+    width: 35%;
+    height: auto;
 }
 
 .section-1 .icon{
